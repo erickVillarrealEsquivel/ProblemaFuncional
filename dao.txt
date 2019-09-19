@@ -1,0 +1,6 @@
+1,carne,80,comida,10,5,20,
+2,pasta,40,comida,20,10,40
+3,tortillas,40,comida,40,10,40
+4,papitas,10,comida,40,10,40
+5,telefono,40,electronico,40,10,40
+6,disco,10,electronico,40,10,40
